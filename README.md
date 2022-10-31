@@ -41,26 +41,3 @@ Making an online banking website with a easy to use UI. Where everyone can an ma
 ```
 
 
-## 📸Screenshots
-
-The Home page
-
-![App Screenshot](https://github.com/ParthShirole/THF-Bank/blob/main/client/src/assets/Home.jpeg)
-
-Register
-
-![App Screenshot](https://github.com/ParthShirole/THF-Bank/blob/main/client/src/assets/Register.jpg)
-
-Login
-
-![App Screenshot](https://github.com/ParthShirole/THF-Bank/blob/main/client/src/assets/Login.jpg)
-
-Profile
-
-![App Screenshot](https://github.com/ParthShirole/THF-Bank/blob/main/client/src/assets/Profile.jpg)
-
-Transfer
-
-![App Screenshot](https://github.com/ParthShirole/THF-Bank/blob/main/client/src/assets/Transfer.jpg)
-
-
