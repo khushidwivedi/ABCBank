@@ -1,6 +1,5 @@
 <p>
 <h1 align = "center" > <strong>🏦ABC Bank🏦 </strong> <br>
-<h3 align = "center">Team :- NHK
  <hr>
 </p>
 
