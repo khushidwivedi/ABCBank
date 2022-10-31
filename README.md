@@ -1,5 +1,5 @@
 <p>
-<h1 align = "center" > <strong>🏦THF Bank🏦 </strong> <br>
+<h1 align = "center" > <strong>🏦ABC Bank🏦 </strong> <br>
 <h3 align = "center">Team :- NHK
  <hr>
 </p>
@@ -15,7 +15,7 @@ Making an online banking website with a easy to use UI. Where everyone can an ma
  - Create a fixed deposit
  - Deposit balance
 
-## 💻Tech Stack
+## 💻Technologies
 
 *Client:* 
  - React 
@@ -28,16 +28,6 @@ Making an online banking website with a easy to use UI. Where everyone can an ma
  - MongoDB
 
 
-##  🛠 Prerequisites
-To install the required files run the following commands:
-```
-git clone https://github.com/ParthShirole/THF-Bank.git.  
-cd client           
-npm i
-cd ..
-cd server
-npm i
-```
  
 ## 🌐 Starting the website
 1. Clone the repo using 
@@ -51,9 +41,6 @@ npm i
   npm start
 ```
 
-## Future Prospects
- - Applying for loans
- - Verifying user via OTP
 
 ## 📸Screenshots
 
@@ -78,8 +65,3 @@ Transfer
 ![App Screenshot](https://github.com/ParthShirole/THF-Bank/blob/main/client/src/assets/Transfer.jpg)
 
 
-## 🧑‍💻Team members
-- [Parth shirole](https://github.com/ParthShirole) - parthshirole06@gmail.com
-- [Rushabh Maru](https://github.com/RushabhM03) - rushabh.maru123@gmail.com
-- [Mann Shah](https://github.com/sphiinxxxx)- shahmann023@gmail.com
-- [Neal Mehta](https://github.com/NealMehtaa) - mehtaneal2002@gmail.com
